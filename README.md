@@ -4,11 +4,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyfuci&show_icons=true&theme=radical&v=2026)
+
+---
+
 ## 💼 What I'm working on
 
 - 🐭 **Spring Boot 4 Migration** - Migrating legacy apps
 - 🤖 **AI & LLMs** - OpenClaw, Dify, and AI automation
-- 📚 **Learning** - Japanese (新标准日本日语)
+- 📚 **Learning** - Japanese (新标准日本语)
 
 ---
 
