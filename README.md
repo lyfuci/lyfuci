@@ -6,14 +6,8 @@
 
 ## 📊 GitHub Stats
 
-![PRs Merged](https://img.shields.io/github/prs/merged/lyfuci?style=for-the-badge&logo=github)
-![Contributions](https://img.shields.io/github/contributors/lyfuci?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/lyfuci?style=for-the-badge&logo=github)
-
-<!-- 
-待 Vercel 恢复后启用:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyfuci&show_icons=true&theme=radical&cache_seconds=1800&ts=20260406)
--->
+![Followers](https://img.shields.io/github/followers/lyfuci?style=for-the-badge&logo=github&color=0D1117)
+![Stars](https://img.shields.io/github/stars/lyfuci/py-tmp?style=for-the-badge&logo=github&color=orange)
 
 ---
 
