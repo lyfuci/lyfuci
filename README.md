@@ -16,7 +16,6 @@
 
 - 🐭 **Spring Boot 4 Migration** - Migrating legacy apps
 - 🤖 **AI & LLMs** - OpenClaw, Dify, and AI automation
-- 📈 **Investing** - A-shares (伊利/平安), US (XOM/AAPL/TSLA)
 - 📚 **Learning** - Japanese (新标准日本语)
 
 ---
