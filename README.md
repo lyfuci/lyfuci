@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyfuci&show_icons=true&theme=radical&v=2026)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyfuci&show_icons=true&theme=radical&cache_seconds=1800&ts=20260406)
 
 ---
 
