@@ -6,9 +6,9 @@
 
 ## 📊 GitHub Stats
 
-[![Sean Sun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyfuci&show_icons=true&theme=radical)](https://github.com/lyfuci)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyfuci&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyfuci&layout=compact&theme=vision-friendly-dark)](https://github.com/lyfuci)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyfuci&layout=compact&theme=vision-friendly-dark)
 
 ---
 
