@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-[![Followers](https://img.shields.io/badge/Followers-6-blue?style=for-the-badge&logo=github)](https://github.com/lyfuci?tab=followers)
+[![Followers](https://img.shields.io/github/followers/lyfuci?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/lyfuci?tab=followers)
 [![GitHub](https://img.shields.io/badge/GitHub-@lyfuci-181717?style=for-the-badge&logo=github)](https://github.com/lyfuci)
 
 ---
