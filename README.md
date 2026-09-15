@@ -9,6 +9,29 @@
 [![Followers](https://img.shields.io/github/followers/lyfuci?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/lyfuci?tab=followers)
 [![GitHub](https://img.shields.io/badge/GitHub-@lyfuci-181717?style=for-the-badge&logo=github)](https://github.com/lyfuci)
 
+<p>
+  <img src="profile/stats.svg" alt="GitHub stats" height="170" />
+  <img src="profile/top-langs.svg" alt="Top languages" height="170" />
+</p>
+
+---
+
+## 🌍 Open Source Contributions
+
+<!-- contributions:start -->
+**10** merged pull requests across **5** repositories.
+
+| Repository | ⭐ | Merged pull requests |
+| --- | ---: | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 389.8k | [#68389](https://github.com/openclaw/openclaw/pull/68389) plugins: clarify allowlist warning when entries don't match discovered ids<br>[#68430](https://github.com/openclaw/openclaw/pull/68430) extensions/acpx: expose probeAgent config so non-codex ACP stacks stay available<br>[#54940](https://github.com/openclaw/openclaw/pull/54940) fix: normalize openai-completions usage fields for DashScope and compatible providers |
+| [langgenius/dify](https://github.com/langgenius/dify) | 155.8k | [#42248](https://github.com/langgenius/dify/pull/42248) refactor(api): pass session explicitly into RBACResourceService (#37403)<br>[#33750](https://github.com/langgenius/dify/pull/33750) fix: use RetrievalModel type for retrieval_model field in HitTestingPayload<br>[#12273](https://github.com/langgenius/dify/pull/12273) fix: DocumentAddByFileApi miss data_source_type field but there is a mandatory value check |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 133.0k | [#7346](https://github.com/farion1231/cc-switch/pull/7346) fix(misc): fetch npm dist-tags from the dedicated endpoint with the probe timeout |
+| [binarywang/WxJava](https://github.com/binarywang/WxJava) | 33.1k | [#3926](https://github.com/binarywang/WxJava/pull/3926) feat(cp): complete WeDoc OA APIs and align form share/statistic compatibility<br>[#3339](https://github.com/binarywang/WxJava/pull/3339) 增加临时素材上传重载 |
+| [gpustack/gguf-parser-go](https://github.com/gpustack/gguf-parser-go) | 303 | [#29](https://github.com/gpustack/gguf-parser-go/pull/29) fix: derive hybrid attention interleaving from `<arch>.full_attention_interval` |
+<!-- contributions:end -->
+
+<sub>The stats cards and this table are refreshed daily by <a href=".github/workflows/update-profile.yml">a workflow</a> in this repository.</sub>
+
 ---
 
 ## 💼 What I'm working on
