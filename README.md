@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sean Sun
 
-> 学徒
+> Lifelong Learner
 
 <a href="https://ghfind.com/en/u/lyfuci?ref=badge">
   <picture>
