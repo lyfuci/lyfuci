@@ -2,12 +2,16 @@
 
 > Software Engineer | AI Enthusiast | OpenClaw User
 
+<a href="https://ghfind.com/en/u/lyfuci?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/lyfuci?variant=radar&theme=dark&lang=en" />
+    <img src="https://ghfind.com/api/card/mini/lyfuci?variant=radar&theme=light&lang=en" alt="GitHub Roast score card for @lyfuci" height="170" />
+  </picture>
+</a>
+
 ---
 
 ## 📊 GitHub Stats
-
-[![Followers](https://img.shields.io/github/followers/lyfuci?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/lyfuci?tab=followers)
-[![GitHub](https://img.shields.io/badge/GitHub-@lyfuci-181717?style=for-the-badge&logo=github)](https://github.com/lyfuci)
 
 <p>
   <img src="profile/stats.svg" alt="GitHub stats" height="170" />
@@ -59,4 +63,3 @@
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-1194458432%40qq.com-blue?logo=gmail)](mailto:1194458432@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lyfuci-181717?logo=github)](https://github.com/lyfuci)
