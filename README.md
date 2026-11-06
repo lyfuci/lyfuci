@@ -40,11 +40,11 @@
 
 ---
 
-## 💼 What I'm working on
+## 💼 What I'm up to
 
-- 🐭 **Spring Boot 4 Migration** - Migrating legacy apps
-- 🤖 **AI & LLMs** - OpenClaw, Dify, and AI automation
-- 📚 **Learning** - Japanese (新标准日本语)
+- 🏋️ Working out
+- 🤖 Chatting with AI
+- ✨ Building whatever I feel like
 
 ---
 
