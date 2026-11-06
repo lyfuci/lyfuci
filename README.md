@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sean Sun
 
-> Software Engineer | AI Enthusiast | OpenClaw User
+> 学徒
 
 <a href="https://ghfind.com/en/u/lyfuci?ref=badge">
   <picture>
